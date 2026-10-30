@@ -1,6 +1,6 @@
- AccuKnox Assignment
+
 Candidate: Abhishek Ganar
-This repository contains my solutions for the AccuKnox Backend/Platform assignment.
+This repository contains my solutions for the 3 assignment.
 
 
 Problems
